@@ -9,7 +9,7 @@ path = "/home/varshalalapura/Desktop/datasets/AvacadoPricing"
 file_name = "avocado.csv"
 
 # read_csv the file
-df = pd.read_csv(os.path.join(path,file_name))
+df = pd.read_csv(os.path.join(path, file_name))
 print(df)
 # top two rows
 print(df.head(2))
@@ -19,7 +19,7 @@ print(df.tail(5))
 print(df["AveragePrice"])
 print(df["AveragePrice"].head())
 # for a particular type in a specific col
-albany_df= df[df["region"] == 'Albany']
+albany_df = df[df["region"] == 'Albany']
 print(albany_df.head())
 # if we see the index, first col, nothing meaningful
 df = df.set_index("Date")

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c24adac9-038f-4b6e-9d7b-fa21cd4a04ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/1-Hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/1-Hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/10-horizontalWinner.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/10-horizontalWinner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/11-verticalWinner.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/11-verticalWinner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/12-diagonalWinner.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/12-diagonalWinner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/13-puttingItAllTogether.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/13-puttingItAllTogether.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/14-WrappingUp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/14-WrappingUp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/15-AddingColorama.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/15-AddingColorama.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/2-TupleStringLoops.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/2-TupleStringLoops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/3-listNTicTacTocGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/3-listNTicTacTocGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/6-definingFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/6-definingFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/7-paramsInFunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/7-paramsInFunc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/8-mutabilityRevistied.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/8-mutabilityRevistied.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/9-errorHandling.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/9-errorHandling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/List_Comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/List_Comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/practise_sheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/practise_sheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/practise_sheet2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/practise_sheet2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/print.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/print.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/returnUsage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/returnUsage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/whileLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/whileLoop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/worksheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/worksheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/worksheet1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/worksheet1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/worksheet2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/worksheet2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-BasicsTutorial/worksheet3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1-BasicsTutorial/worksheet3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-OpenCVWithPython/1-IntroAndLoadingImages.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2-OpenCVWithPython/1-IntroAndLoadingImages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-OpenCVWithPython/1-worksheet1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2-OpenCVWithPython/1-worksheet1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-OpenCVWithPython/2-LoadingVideoCV2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2-OpenCVWithPython/2-LoadingVideoCV2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-OpenCVWithPython/2-worksheet1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2-OpenCVWithPython/2-worksheet1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-OpenCVWithPython/3-LineRectCirclePolyOnImg.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2-OpenCVWithPython/3-LineRectCirclePolyOnImg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-OpenCVWithPython/3-worksheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2-OpenCVWithPython/3-worksheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-OpenCVWithPython/4-ImageOperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2-OpenCVWithPython/4-ImageOperations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-OpenCVWithPython/4-worksheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2-OpenCVWithPython/4-worksheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-OpenCVWithPython/5-ImageArithmeticAndLogic.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2-OpenCVWithPython/5-ImageArithmeticAndLogic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-OpenCVWithPython/5-worksheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2-OpenCVWithPython/5-worksheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-OpenCVWithPython/5-worksheet1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2-OpenCVWithPython/5-worksheet1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-OpenCVWithPython/plottingAndVisualizingImageOrGraph.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2-OpenCVWithPython/plottingAndVisualizingImageOrGraph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-OpenCVWithPython/print.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../2-OpenCVWithPython/print.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-OpenCVWithPython/worksheet-anu.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2-OpenCVWithPython/worksheet-anu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-OpenCVWithPython/worksheet-eightCords.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2-OpenCVWithPython/worksheet-eightCords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-MachineLearningWithScikitLearn/1-2-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3-MachineLearningWithScikitLearn/1-2-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-MachineLearningWithScikitLearn/1-worksheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3-MachineLearningWithScikitLearn/1-worksheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-MachineLearningWithScikitLearn/2-work-sheet-ParsingDirectoriesToReachTheString.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3-MachineLearningWithScikitLearn/2-work-sheet-ParsingDirectoriesToReachTheString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-MachineLearningWithScikitLearn/3-worksheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3-MachineLearningWithScikitLearn/3-worksheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-MachineLearningWithScikitLearn/5-MoreParsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3-MachineLearningWithScikitLearn/5-MoreParsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-MachineLearningWithScikitLearn/5-worksheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3-MachineLearningWithScikitLearn/5-worksheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-MachineLearningWithScikitLearn/6-StructuringDataWithPandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3-MachineLearningWithScikitLearn/6-StructuringDataWithPandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-IntermediatePython/1-Introduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4-IntermediatePython/1-Introduction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-IntermediatePython/2-StingConcatenationAndFormatting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4-IntermediatePython/2-StingConcatenationAndFormatting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-IntermediatePython/2-worksheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4-IntermediatePython/2-worksheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-IntermediatePython/3-ArgParserForCLI.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4-IntermediatePython/3-ArgParserForCLI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/1-Introduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/1-Introduction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/10-R2Theory.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/10-R2Theory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/11-ProgrammingR2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/11-ProgrammingR2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/12-TestingAssumptionsCreatingNewData.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/12-TestingAssumptionsCreatingNewData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/2-RegressionIntro.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/2-RegressionIntro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/3-RegressionFeaturesAndLabels.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/3-RegressionFeaturesAndLabels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/4-RegressionTrainingAndTesting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/4-RegressionTrainingAndTesting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/4-worksheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/4-worksheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/5-RegressionForecastingAndPrediction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/5-RegressionForecastingAndPrediction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/5-worksheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/5-worksheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/6-PicklingANdScaling.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/6-PicklingANdScaling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/7-RegressionTheory.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/7-RegressionTheory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/8-HowToProgramTheBestFitSlope.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/8-HowToProgramTheBestFitSlope.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/9-HowToProrgramTheBestFitLine.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/9-HowToProrgramTheBestFitLine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/LinearRegressionOnGoogleStock.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/1-LinearRegression-GoogleStockPriceQuandl/LinearRegressionOnGoogleStock.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/13-IntroductionKNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/13-IntroductionKNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/14-KNNApplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/14-KNNApplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/15-EuclideanDistanceTheory.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/15-EuclideanDistanceTheory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/16-KNNFromScratchPart1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/16-KNNFromScratchPart1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/17-KNNFromScratchPart2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/17-KNNFromScratchPart2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/17-worksheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/17-worksheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/17-worksheet1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/17-worksheet1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/18-TestingKNNClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/18-TestingKNNClassifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/19-ConfidenceAccuracyComparisonSKLearn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/2-KNN-Classification-BreastCancerClassificationUCI/19-ConfidenceAccuracyComparisonSKLearn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/3-SVM-BreastCancerDataUCI/21-IntroductionToSVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/3-SVM-BreastCancerDataUCI/21-IntroductionToSVM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/3-SVM-BreastCancerDataUCI/22-25-TheorySVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/3-SVM-BreastCancerDataUCI/22-25-TheorySVM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/3-SVM-BreastCancerDataUCI/26-SVMFromScratch1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/3-SVM-BreastCancerDataUCI/26-SVMFromScratch1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/3-SVM-BreastCancerDataUCI/27-SVMTraining2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/3-SVM-BreastCancerDataUCI/27-SVMTraining2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/3-SVM-BreastCancerDataUCI/28-worksheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/3-SVM-BreastCancerDataUCI/28-worksheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/1-KMeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/1-KMeans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/2-HandlingNonNumericData.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/2-HandlingNonNumericData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/2-worksheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/2-worksheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/3-KMeansWithTitanicDataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/3-KMeansWithTitanicDataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/3-worksheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/3-worksheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/4-CustomKMeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/4-CustomKMeans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/4-KMeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/4-KMeans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/4-worksheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/4-worksheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/4-worksheet1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/4-worksheet1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/5-KMeansFromScratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/5-KMeansFromScratch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/5-SentdexKMeansFromScratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/5-SentdexKMeansFromScratch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/6-CustomKMeansOnTitanicDataSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/4-Clustering-Flat/6-CustomKMeansOnTitanicDataSet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/5-Clustering-Hierarchical/1-MeanShiftOnXData.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/5-Clustering-Hierarchical/1-MeanShiftOnXData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/5-Clustering-Hierarchical/2-MeannShiftOnTitatnicDataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/5-Clustering-Hierarchical/2-MeannShiftOnTitatnicDataset.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-MachineLearningInGeneral/5-Clustering-Hierarchical/2-MeannShiftOnTitatnicDataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../5-MachineLearningInGeneral/5-Clustering-Hierarchical/2-MeannShiftOnTitatnicDataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6-MatplotLib/1-Introduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../6-MatplotLib/1-Introduction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6-MatplotLib/7-LoadDataCSVorNumpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../6-MatplotLib/7-LoadDataCSVorNumpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Introduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-Introduction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-GraphingOrVisualization.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-GraphingOrVisualization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8-Revision/1-worksheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../8-Revision/1-worksheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2-GraphingOrVisualization.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-Introduction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/2-GraphingOrVisualization.py" />
+        <option value="$PROJECT_DIR$/1-Introduction.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="531" />
+    <option name="y" value="59" />
+    <option name="width" value="1388" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="7-Pandas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7-Pandas" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c24adac9-038f-4b6e-9d7b-fa21cd4a04ff" name="Default Changelist" comment="" />
+      <created>1555476995930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555476995930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972677" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1-Introduction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-GraphingOrVisualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

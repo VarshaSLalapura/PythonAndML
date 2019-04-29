@@ -11,7 +11,7 @@ albany_df = df[df["region"] == "Albany"]
 # note the square braces around inside which we look for the col to be searched
 # and the df of that data , df[]
 
-print(albany_df.set_index("Date", inplace = True))
+print(albany_df.set_index("Date", inplace=True))
 plt.plot(albany_df["AveragePrice"])
 albany_df["AveragePrice"].plot()
 plt.show()
